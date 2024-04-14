@@ -78,3 +78,5 @@ Then, wait at least a day and then Edit your post to a known string that will tr
 "impossible gray toothbrush hungry dam wild bag rotten intelligent future
 
 This post was mass deleted and anonymized with Redact"
+
+Then, once again open your comment in a new incognito window. If it still appears after 10 seconds, the subreddit is likely not hostile. If its missing, its hostile and the automod actively deleted your post.
