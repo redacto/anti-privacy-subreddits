@@ -60,8 +60,21 @@ As such, below we are updating and maintaining a list of subreddits that activel
 
 For all subreddits below, Redact itself has made it so that all edits are now untraceable, with no identifying strings or tags. 
 This will make things very frustrating for moderators, which is something we DO NOT want to do. The point of having the string saying that something was "mass edited" serves several purposes:
+
 1: It lets future users know that this post was removed not because of something specific to the post or its contents, but because the user scrubbed all of their data
+
 2: It lets other users who see that post know what software they used to accomplish that goal
+
 3: It lets moderators of the subreddit easily see that this was a automated edit and does not need further moderator action.
 
 Because reddit moderators have hooked into previously used terms to be antagonist to user privacy, we have removed those terms moving forward for the following subreddits. Now, only random words and chatgpt based gibberish will be edited in place.
+
+
+### How do you verify this data?
+
+The best way to verify this is to make a helpful, non-spammy post in a target subreddit. Then, verify in a new, incognito browser that your comment shows up.
+Then, wait at least a day and then Edit your post to a known string that will trigger the automod, such as 
+
+"impossible gray toothbrush hungry dam wild bag rotten intelligent future
+
+This post was mass deleted and anonymized with Redact"
