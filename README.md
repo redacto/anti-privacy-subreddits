@@ -1,6 +1,8 @@
 # anti-privacy-subreddits
 The following is a list of subreddits that either delete edited posts and/or ban you for editing your posts
-[What is a anti-privacy subreddit?](#what),
+
+[What is a anti-privacy subreddit?](#what)
+
 | Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
 | :---         |     :---:      |          ---: |
 | tifu   | Yes     | no    |
@@ -36,7 +38,7 @@ The following is a list of subreddits that either delete edited posts and/or ban
 |  watchpeopledieinside  | Yes     | Yes    |
 
 
-### what
+### what?
 
 Some subreddits have their automod setup to automatically catch any posts that contain certain keywords, pertaining to mass-edit/deletion software.
 Examples are:
