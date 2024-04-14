@@ -56,21 +56,24 @@ It is important to know that while nobody can doubt that it is incredibly annoyi
 Reddit, its moderators or its admins do not come before your privacy when it comes to deleting or editing your past posts. Their experience comes second. Privacy is a hard fought right being stripped from us more and more every day and must be respected as such.
 Users who want to protect themselves from AI Harvesting bots, stylometry attacks or other reasons have every right to anonymize their content. Punishing them is antithetical to what is best for the user itself.
 
-As such, below we are updating and maintaining a list of subreddits that actively look for certain keywords and will automatically delete your post at a minimum and possibly ban and message you at a maximum.
-
-For all subreddits below, Redact itself has made it so that all edits are now untraceable, with no identifying strings or tags. 
-This will make things very frustrating for moderators, which is something we DO NOT want to do. The point of having the string saying that something was "mass edited" serves several purposes:
-
-1: It lets future users know that this post was removed not because of something specific to the post or its contents, but because the user scrubbed all of their data
-
-2: It lets other users who see that post know what software they used to accomplish that goal
-
-3: It lets moderators of the subreddit easily see that this was a automated edit and does not need further moderator action.
-
-Because reddit moderators have hooked into previously used terms to be antagonist to user privacy, we have removed those terms moving forward for the following subreddits. Now, only random words and chatgpt based gibberish will be edited in place.
 
 
-### How do you verify this data?
+
+### How can we stop this?
+
+For [Redact.dev](https://redact.dev) , when a user selects to edit their posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
+
+This will make things very frustrating for moderators, which is something we DO NOT want to do. The point of having an identifying string saying that something was "mass edited" serves several purposes:
+
+1: It lets future users know that this post was removed not because of something specific to the post or its contents, but because the user scrubbed all of their data.
+
+2: It lets other users who see that post know what software they used to accomplish that goal and that it was likely performed in a automated fashion.
+
+3: It lets moderators of the subreddit easily see that this was a automated edit and does not need further moderator action or scrutiny.
+
+
+
+### How do you verify the subreddit is anti-privacy?
 
 The best way to verify this is to make a helpful, non-spammy post in a target subreddit. Then, verify in a new, incognito browser that your comment shows up.
 Then, wait at least a day and then Edit your post to a known string that will trigger the automod, such as 
