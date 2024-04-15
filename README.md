@@ -1,5 +1,5 @@
 # anti-privacy-subreddits
-The following is a list of subreddits that either delete edited posts and/or ban you for editing your posts. 
+The following is a list of subreddits that will ban you for editing your past posts or simply delete any edit you have done.
 
 This data is only currently based on the top 100 subreddits and will be expanded shortly. If you have more data, please submit a PR.
 
