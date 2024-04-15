@@ -8,11 +8,11 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
 | :---         |     :---:      |          ---: |
 | tifu   | Yes     | no    |
-| japantravel   | Yes     | Yes    |
+| japantravel   | Yes     | ✅    |
 |  personalfinance  | Yes     | no    |
 |   business_ideas | Yes     | no    |
 |  trueunpopularopinion  | Yes     | no    |
-|   explainlikeimfive | Yes     | Yes    |
+|   explainlikeimfive | Yes     | ✅    |
 | productivity   | Yes     | no    |
 |  askreddit  | Yes     | no    |
 |  gaming  | Yes     | no    |
@@ -31,13 +31,13 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |   EatCheapAndHealthy | Yes     | no    |
 |  tattoos  | Yes     | no    |
 | nfl   | Yes     | no    |
-|  Minecraft  | Yes     | Yes    |
+|  Minecraft  | Yes     | ✅    |
 |  mildlyinfuriating  | Yes     | no    |
 |  leagueoflegends  | Yes     | no    |
-|  Awwducational  | Yes     | Yes    |
-|  news  | Yes     | Yes    |
+|  Awwducational  | Yes     | ✅    |
+|  news  | Yes     | ✅    |
 |  thewitcher3  | Yes     | no    |
-|  watchpeopledieinside  | Yes     | Yes    |
+|  watchpeopledieinside  | Yes     | ✅    |
 
 
 ### what?
