@@ -31,7 +31,6 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |   EatCheapAndHealthy | Yes     | no    |
 |  tattoos  | Yes     | no    |
 | nfl   | Yes     | no    |
-|  Minecraft  | Yes     | ✅    |
 |  mildlyinfuriating  | Yes     | no    |
 |  leagueoflegends  | Yes     | no    |
 |  Awwducational  | Yes     | ✅    |
