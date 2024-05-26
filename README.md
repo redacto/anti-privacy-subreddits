@@ -9,6 +9,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | :---         |     :---:      |          ---: |
 | tifu   | Yes     | no    |
 | japantravel   | Yes     | ✅    |
+| bayarea   | Yes     | ✅    |
 |  personalfinance  | Yes     | no    |
 |   business_ideas | Yes     | no    |
 |  trueunpopularopinion  | Yes     | no    |
