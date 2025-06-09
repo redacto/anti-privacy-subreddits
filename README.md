@@ -3,7 +3,7 @@ The following is a list of subreddits that will ban you for editing your past po
 
 This data is only currently based on the top 100 subreddits and will be expanded shortly. If you have more data, please [Submit a PR](https://github.com/harknesslabs/anti-privacy-subreddits/pulls).
 
-[What is a anti-privacy subreddit?](#what)
+[What is an anti-privacy subreddit?](#what-is-an-anti-privacy-subreddit)
 
 | Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
 | :---         |     :---:      |          ---: |
@@ -40,31 +40,27 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  watchpeopledieinside  | Yes     | ✅    |
 
 
-### what?
+### What is an Anti-Privacy Subreddit?
 
-Some subreddits have their automod setup to automatically catch any posts that contain certain keywords, pertaining to mass-edit/deletion software.
+Some subreddits have their automod setup to catch posts that contain certain keywords, pertaining to mass-edit/deletion software.
 Examples are:
-Shreddit, Redact and github.com/j0be/PowerDeleteSuite
+Shreddit, [Redact.dev](https://redact.dev) and github.com/j0be/PowerDeleteSuite
 
-The automod setup will look for terms such as the above names or phrases like "Mass deleted" or "Mass edited" to remove your comments and/or ban you.
+Automod will look for terms such as the above names or phrases like "Mass deleted" or "Mass edited" to remove your comments and/or ban you.
 
-This is a issue because the point of editing your reddit posts and leaving them in place is so that third party "scraper" websites will typically re-scrape reddit threads and update them with the freshest data.
-However, if the posts are simply deleted, the sites will not update the data and will keep the deleted comment displayed in its original form.
-As such, simply deleting your posts or comments will possibly keep them alive forever on third party websites, whereas editing them has superior results for op-sec.
+Editing your Reddit posts and leaving them in place means that third party "scrapers" that save your old Reddit activity will update scraped versions of your comments and posts with the edited version. Simply deleting Reddit posts and comments will not prevent the scrapers from displaying your old, deleted content. Without editing them (or editing then deleting), your security and privacy remains compromised.
 
-It is important to know that while nobody can doubt that it is incredibly annoying to search for something and then see the result being "edited, removed my data" - that we must still acknowledge that the privacy of the individual poster is more important than the general reddit experience.
-Reddit, its moderators or its admins do not come before the individual users privacy when it comes to deleting or editing their past posts. The reddit experience comes second. Privacy is a hard fought right being stripped from us more and more every day and must be respected and protected lest we lose more and more of it every day. It is not hard to imagine a world where reddit, twitter or facebook simply does not allow you to even /delete/ your old posts in the future.
+While it may be frustrating to come across deleted or edited comments when searching Reddit for information, the privacy of the individual poster or commenter is more important than the general Reddit experience. 
 
-Users who want to protect themselves from AI Harvesting bots, stylometry attacks or other reasons have every right to anonymize their content. Subreddits punishing them is antithetical to what is best for the user itself and is a behavior that must be named and shamed.
+Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like [Redact.dev](https://redact.dev). One day, platforms like Reddit, Facebook, and Twitter/X may not even allow you to delete your old content.
 
-
-
+People who want to protect themselves from AI Harvesting, stylometry attacks, phishing, harassment, stalkers or countless other harms have every right to anonymize their content. Subreddits punishing people for protecting their privacy is unethical and puts the desires of the platform over the rights of the people using it.
 
 ### How can we stop this?
 
 Letting the subreddits know that what they are doing is anti-privacy and why they stop should be priority number one. Many will be hostile and simply refer to the edits as spam and not want to engage further. Some will change their approach.
 
-For [Redact.dev](https://redact.dev) , when a user selects to edit their posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
+For [Redact.dev](https://redact.dev) , when you choose to edit your posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
 
 This will prevent the automod from automatically deleting the posts. If the subreddit wants to go and delete them still, they will have to do so via manual interaction by a moderator. 
 
