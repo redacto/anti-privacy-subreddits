@@ -40,6 +40,10 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  watchpeopledieinside  | Yes     | ✅    |
 |  tipofmytongue  | no     | ✅    |
 |  politics  | Yes     | ✅    |
+|  ContagiousLaughter  | Yes     | no    |
+|  blackmagicfuckery   | Yes     | no    |
+|  TIHI| Yes     | no    |
+|  hellsomememes  | Yes     | No    |
 
 
 ### What is an Anti-Privacy Subreddit?
