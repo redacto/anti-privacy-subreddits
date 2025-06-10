@@ -46,6 +46,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  hellsomememes  | Yes     | no    |
 |  OpenUniversity   | Yes     | no    |
 
+
 ### What is an Anti-Privacy Subreddit?
 
 Some subreddits have their automod setup to catch posts that contain certain keywords, pertaining to mass-edit/deletion software.
