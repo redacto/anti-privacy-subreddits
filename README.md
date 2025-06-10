@@ -39,6 +39,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  thewitcher3  | Yes     | no    |
 |  watchpeopledieinside  | Yes     | ✅    |
 |  tipofmytongue  | no     | ✅    |
+|  politics  | Yes     | ✅    |
 
 
 ### What is an Anti-Privacy Subreddit?
