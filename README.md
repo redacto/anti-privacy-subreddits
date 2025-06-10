@@ -43,8 +43,8 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  ContagiousLaughter  | Yes     | no    |
 |  blackmagicfuckery   | Yes     | no    |
 |  TIHI| Yes     | no    |
-|  hellsomememes  | Yes     | No    |
-
+|  hellsomememes  | Yes     | no    |
+|  OpenUniversity   | Yes     | no    |
 
 ### What is an Anti-Privacy Subreddit?
 
