@@ -40,6 +40,8 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  watchpeopledieinside  | Yes     | ✅    |
 |  tipofmytongue  | no     | ✅    |
 |  politics  | Yes     | ✅    |
+|  animalsbeingbros  | Yes     | ✅    |
+|  candles  | Yes     | ✅    |
 
 
 ### What is an Anti-Privacy Subreddit?
