@@ -6,7 +6,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 [What is an anti-privacy subreddit?](#what-is-an-anti-privacy-subreddit)
 
 | Subreddit Name       | Delete Edited Posts? | Ban users who edit posts? |
-|-:--------------------|-:-:------------------|--:------------------------|
+|:---------------------|:--------------------:|--------------------------:|
 | tifu                 | ✅                    | ❌                         |
 | japantravel          | ✅                    | ✅                         |
 | bayarea              | ✅                    | ✅                         |
