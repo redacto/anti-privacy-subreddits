@@ -7,44 +7,44 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 | Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
 | :---         |     :---:      |          ---: |
-| tifu   | ✅     | ❌    |
+| tifu   | ✅     | no    |
 | japantravel   | ✅     | ✅    |
 | bayarea   | ✅     | ✅    |
-|  personalfinance  | ✅     | ❌    |
-|   business_ideas | ✅     | ❌    |
-|  trueunpopularopinion  | ✅     | ❌    |
+|  personalfinance  | ✅     | no    |
+|   business_ideas | ✅     | no    |
+|  trueunpopularopinion  | ✅     | no    |
 |   explainlikeimfive | ✅     | ✅    |
-| productivity   | ✅     | ❌    |
-|  askreddit  | ✅     | ❌    |
-|  gaming  | ✅     | ❌    |
-|  worldnews  | ✅     | ❌    |
-|  aww  | ✅     | ❌    |
-|  askscience  | ✅     | ❌    |
-|  earthporn  | ✅     | ❌    |
-| explainlikeimfive   | ✅     | ❌    |
-|  lifeprotips  | ✅     | ❌    |
-|  photoshopbattle  | ✅     | ❌    |
-|  oldschoolcool  | ✅     | ❌    |
-|  listentothis  | ✅     | ❌    |
-|  writingprompts  | ✅     | ❌    |
-|  wallstreetbets  | ✅     | ❌    |
-|  Fitness  | ✅     | ❌    |
-|   EatCheapAndHealthy | ✅     | ❌    |
-|  tattoos  | ✅     | ❌    |
-| nfl   | ✅     | ❌    |
-|  mildlyinfuriating  | ✅     | ❌    |
-|  leagueoflegends  | ✅     | ❌    |
+| productivity   | ✅     | no    |
+|  askreddit  | ✅     | no    |
+|  gaming  | ✅     | no    |
+|  worldnews  | ✅     | no    |
+|  aww  | ✅     | no    |
+|  askscience  | ✅     | no    |
+|  earthporn  | ✅     | no    |
+| explainlikeimfive   | ✅     | no    |
+|  lifeprotips  | ✅     | no    |
+|  photoshopbattle  | ✅     | no    |
+|  oldschoolcool  | ✅     | no    |
+|  listentothis  | ✅     | no    |
+|  writingprompts  | ✅     | no    |
+|  wallstreetbets  | ✅     | no    |
+|  Fitness  | ✅     | no    |
+|   EatCheapAndHealthy | ✅     | no    |
+|  tattoos  | ✅     | no    |
+| nfl   | ✅     | no    |
+|  mildlyinfuriating  | ✅     | no    |
+|  leagueoflegends  | ✅     | no    |
 |  Awwducational  | ✅     | ✅    |
 |  news  | ✅     | ✅    |
-|  thewitcher3  | ✅     | ❌    |
+|  thewitcher3  | ✅     | no    |
 |  watchpeopledieinside  | ✅     | ✅    |
-|  tipofmytongue  | ❌     | ✅    |
+|  tipofmytongue  | no     | ✅    |
 |  politics  | ✅     | ✅    |
-|  ContagiousLaughter  | ✅     | ❌    |
-|  blackmagicfuckery   | ✅     | ❌    |
-|  TIHI  | ✅     | ❌    |
-|  hellsomememes  | ✅     | ❌    |
-|  OpenUniversity   | ✅     | ❌    |
+|  ContagiousLaughter  | ✅     | no    |
+|  blackmagicfuckery   | ✅     | no    |
+|  TIHI  | ✅     | no    |
+|  hellsomememes  | ✅     | no    |
+|  OpenUniversity   | ✅     | no    |
 
 
 ### What is an Anti-Privacy Subreddit?
@@ -55,41 +55,41 @@ Shreddit, [Redact.dev](https://redact.dev) and github.com/j0be/PowerDeleteSuite
 
 Automod will look for terms such as the above names or phrases like "Mass deleted" or "Mass edited" to remove your comments and/or ban you.
 
-Editing your Reddit posts and leaving them in place means that third party "scrapers" that save your old Reddit activity will update scraped versions of your comments and posts with the edited version. Simply deleting Reddit posts and comments will ❌t prevent the scrapers from displaying your old, deleted content. Without editing them (or editing then deleting), your security and privacy remains compromised.
+Editing your Reddit posts and leaving them in place means that third party "scrapers" that save your old Reddit activity will update scraped versions of your comments and posts with the edited version. Simply deleting Reddit posts and comments will not prevent the scrapers from displaying your old, deleted content. Without editing them (or editing then deleting), your security and privacy remains compromised.
 
 While it may be frustrating to come across deleted or edited comments when searching Reddit for information, the privacy of the individual poster or commenter is more important than the general Reddit experience. 
 
-Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like [Redact.dev](https://redact.dev). One day, platforms like Reddit, Facebook, and Twitter/X may ❌t even allow you to delete your old content.
+Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like [Redact.dev](https://redact.dev). One day, platforms like Reddit, Facebook, and Twitter/X may not even allow you to delete your old content.
 
-People who want to protect themselves from AI Harvesting, stylometry attacks, phishing, harassment, stalkers or countless other harms have every right to a❌nymize their content. Subreddits punishing people for protecting their privacy is unethical and puts the desires of the platform over the rights of the people using it.
+People who want to protect themselves from AI Harvesting, stylometry attacks, phishing, harassment, stalkers or countless other harms have every right to anonymize their content. Subreddits punishing people for protecting their privacy is unethical and puts the desires of the platform over the rights of the people using it.
 
 ### How can we stop this?
 
-Letting the subreddits k❌w that what they are doing is anti-privacy and why they stop should be priority number one. Many will be hostile and simply refer to the edits as spam and ❌t want to engage further. Some will change their approach.
+Letting the subreddits know that what they are doing is anti-privacy and why they stop should be priority number one. Many will be hostile and simply refer to the edits as spam and not want to engage further. Some will change their approach.
 
-For [Redact.dev](https://redact.dev) , when you choose to edit your posts, we are ❌w using this github list of subreddits to send randomized edits that have ❌ common identifying strings or tags when a post is in one of the target subreddits. 
+For [Redact.dev](https://redact.dev) , when you choose to edit your posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
 
 This will prevent the automod from automatically deleting the posts. If the subreddit wants to go and delete them still, they will have to do so via manual interaction by a moderator. 
 
 To be clear, the point of having an identifying string in the edited post saying that something was "mass edited" serves several purposes:
 
-1: It lets future users k❌w that this post was removed ❌t because of something specific to the post or its contents, but because the user scrubbed all of their data.
+1: It lets future users know that this post was removed not because of something specific to the post or its contents, but because the user scrubbed all of their data.
 
-2: It lets other users who see that post k❌w what software they used to accomplish that goal and that it was likely performed in a automated fashion.
+2: It lets other users who see that post know what software they used to accomplish that goal and that it was likely performed in a automated fashion.
 
-3: It lets moderators of the subreddit easily see that this was a automated edit and does ❌t need further moderator action or scrutiny.
+3: It lets moderators of the subreddit easily see that this was a automated edit and does not need further moderator action or scrutiny.
 
-With that said, we will ❌t tolerate subreddits abusing this string to take away from a users privacy.
+With that said, we will not tolerate subreddits abusing this string to take away from a users privacy.
 
 
 
 ### How do you verify the subreddit is anti-privacy?
 
-The best way to verify this is to make a helpful, ❌n-spammy post in a target subreddit. Then, verify in a new, incognito browser that your comment shows up.
-Then, wait at least a day and then Edit your post to a k❌wn string that will trigger the automod, such as 
+The best way to verify this is to make a helpful, non-spammy post in a target subreddit. Then, verify in a new, incognito browser that your comment shows up.
+Then, wait at least a day and then Edit your post to a known string that will trigger the automod, such as 
 
 "impossible gray toothbrush hungry dam wild bag rotten intelligent future
 
-This post was mass deleted and a❌nymized with Redact"
+This post was mass deleted and anonymized with Redact"
 
-Then once again, open your comment in a new incognito window. If it still appears after 10 seconds, the subreddit is likely ❌t hostile. If the comment is missing, its hostile because the automod immediately deleted your post.
+Then once again, open your comment in a new incognito window. If it still appears after 10 seconds, the subreddit is likely not hostile. If the comment is missing, its hostile because the automod immediately deleted your post.
