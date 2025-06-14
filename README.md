@@ -45,7 +45,6 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  TIHI  | ✅     | no    |
 |  hellsomememes  | ✅     | no    |
 |  OpenUniversity   | ✅     | no    |
-|  politics  | ✅     | ✅    |
 |  animalsbeingbros  | ✅     | ✅    |
 |  candles  | ✅     | ✅    |
 
