@@ -7,41 +7,50 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 | Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
 | :---         |     :---:      |          ---: |
-| tifu   | Yes     | no    |
-| japantravel   | Yes     | ✅    |
-| bayarea   | Yes     | ✅    |
-|  personalfinance  | Yes     | no    |
-|   business_ideas | Yes     | no    |
-|  trueunpopularopinion  | Yes     | no    |
-|   explainlikeimfive | Yes     | ✅    |
-| productivity   | Yes     | no    |
-|  askreddit  | Yes     | no    |
-|  gaming  | Yes     | no    |
-|  worldnews  | Yes     | no    |
-|  aww  | Yes     | no    |
-|  askscience  | Yes     | no    |
-|  earthporn  | Yes     | no    |
-| explainlikeimfive   | Yes     | no    |
-|  lifeprotips  | Yes     | no    |
-|  photoshopbattle  | Yes     | no    |
-|  oldschoolcool  | Yes     | no    |
-|  listentothis  | Yes     | no    |
-|  writingprompts  | Yes     | no    |
-|  wallstreetbets  | Yes     | no    |
-|  Fitness  | Yes     | no    |
-|   EatCheapAndHealthy | Yes     | no    |
-|  tattoos  | Yes     | no    |
-| nfl   | Yes     | no    |
-|  mildlyinfuriating  | Yes     | no    |
-|  leagueoflegends  | Yes     | no    |
-|  Awwducational  | Yes     | ✅    |
-|  news  | Yes     | ✅    |
-|  thewitcher3  | Yes     | no    |
-|  watchpeopledieinside  | Yes     | ✅    |
+| tifu   | ✅     | no    |
+| japantravel   | ✅     | ✅    |
+| bayarea   | ✅     | ✅    |
+|  personalfinance  | ✅     | no    |
+|   business_ideas | ✅     | no    |
+|  trueunpopularopinion  | ✅     | no    |
+|   explainlikeimfive | ✅     | ✅    |
+| productivity   | ✅     | no    |
+|  askreddit  | ✅     | no    |
+|  gaming  | ✅     | no    |
+|  worldnews  | ✅     | no    |
+|  aww  | ✅     | no    |
+|  askscience  | ✅     | no    |
+|  earthporn  | ✅     | no    |
+| explainlikeimfive   | ✅     | no    |
+|  lifeprotips  | ✅     | no    |
+|  photoshopbattle  | ✅     | no    |
+|  oldschoolcool  | ✅     | no    |
+|  listentothis  | ✅     | no    |
+|  writingprompts  | ✅     | no    |
+|  wallstreetbets  | ✅     | no    |
+|  Fitness  | ✅     | no    |
+|   EatCheapAndHealthy | ✅     | no    |
+|  tattoos  | ✅     | no    |
+| nfl   | ✅     | no    |
+|  mildlyinfuriating  | ✅     | no    |
+|  leagueoflegends  | ✅     | no    |
+|  Awwducational  | ✅     | ✅    |
+|  news  | ✅     | ✅    |
+|  thewitcher3  | ✅     | no    |
+|  watchpeopledieinside  | ✅     | ✅    |
 |  tipofmytongue  | no     | ✅    |
+<<<<<<< patch-1
+|  politics  | ✅     | ✅    |
+|  ContagiousLaughter  | ✅     | no    |
+|  blackmagicfuckery   | ✅     | no    |
+|  TIHI  | ✅     | no    |
+|  hellsomememes  | ✅     | no    |
+|  OpenUniversity   | ✅     | no    |
+=======
 |  politics  | Yes     | ✅    |
 |  animalsbeingbros  | Yes     | ✅    |
 |  candles  | Yes     | ✅    |
+>>>>>>> main
 
 
 ### What is an Anti-Privacy Subreddit?
