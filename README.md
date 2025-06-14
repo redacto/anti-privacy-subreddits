@@ -39,12 +39,18 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |  thewitcher3  | ✅     | no    |
 |  watchpeopledieinside  | ✅     | ✅    |
 |  tipofmytongue  | no     | ✅    |
+<<<<<<< patch-1
 |  politics  | ✅     | ✅    |
 |  ContagiousLaughter  | ✅     | no    |
 |  blackmagicfuckery   | ✅     | no    |
 |  TIHI  | ✅     | no    |
 |  hellsomememes  | ✅     | no    |
 |  OpenUniversity   | ✅     | no    |
+=======
+|  politics  | Yes     | ✅    |
+|  animalsbeingbros  | Yes     | ✅    |
+|  candles  | Yes     | ✅    |
+>>>>>>> main
 
 
 ### What is an Anti-Privacy Subreddit?
