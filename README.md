@@ -47,6 +47,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | OpenUniversity       | ✅                    | ❌                         |
 | animalsbeingbros     | ✅                    | ✅                         |
 | candles              | ✅                    | ✅                         |
+| codes                | ❌                    | ✅
 
 
 ### What is an Anti-Privacy Subreddit?
