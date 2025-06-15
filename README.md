@@ -5,48 +5,50 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 [What is an anti-privacy subreddit?](#what-is-an-anti-privacy-subreddit)
 
-| Subreddit Name | Delete Edited Posts? | Ban users who edit posts? |
-| :---         |     :---:      |          ---: |
-| tifu   | ✅     | no    |
-| japantravel   | ✅     | ✅    |
-| bayarea   | ✅     | ✅    |
-|  personalfinance  | ✅     | no    |
-|   business_ideas | ✅     | no    |
-|  trueunpopularopinion  | ✅     | no    |
-|   explainlikeimfive | ✅     | ✅    |
-| productivity   | ✅     | no    |
-|  askreddit  | ✅     | no    |
-|  gaming  | ✅     | no    |
-|  worldnews  | ✅     | no    |
-|  aww  | ✅     | no    |
-|  askscience  | ✅     | no    |
-|  earthporn  | ✅     | no    |
-| explainlikeimfive   | ✅     | no    |
-|  lifeprotips  | ✅     | no    |
-|  photoshopbattle  | ✅     | no    |
-|  oldschoolcool  | ✅     | no    |
-|  listentothis  | ✅     | no    |
-|  writingprompts  | ✅     | no    |
-|  wallstreetbets  | ✅     | no    |
-|  Fitness  | ✅     | no    |
-|   EatCheapAndHealthy | ✅     | no    |
-|  tattoos  | ✅     | no    |
-| nfl   | ✅     | no    |
-|  mildlyinfuriating  | ✅     | no    |
-|  leagueoflegends  | ✅     | no    |
-|  Awwducational  | ✅     | ✅    |
-|  news  | ✅     | ✅    |
-|  thewitcher3  | ✅     | no    |
-|  watchpeopledieinside  | ✅     | ✅    |
-|  tipofmytongue  | no     | ✅    |
-|  politics  | ✅     | ✅    |
-|  ContagiousLaughter  | ✅     | no    |
-|  blackmagicfuckery   | ✅     | no    |
-|  TIHI  | ✅     | no    |
-|  hellsomememes  | ✅     | no    |
-|  OpenUniversity   | ✅     | no    |
-|  animalsbeingbros  | ✅     | ✅    |
-|  candles  | ✅     | ✅    |
+| Subreddit Name       | Delete Edited Posts? | Ban users who edit posts? |
+|:---------------------|:--------------------:|--------------------------:|
+| tifu                 | ✅                    | ❌                         |
+| japantravel          | ✅                    | ✅                         |
+| bayarea              | ✅                    | ✅                         |
+| personalfinance      | ✅                    | ❌                         |
+| business_ideas       | ✅                    | ❌                         |
+| trueunpopularopinion | ✅                    | ❌                         |
+| explainlikeimfive    | ✅                    | ✅                         |
+| productivity         | ✅                    | ❌                         |
+| askreddit            | ✅                    | ❌                         |
+| gaming               | ✅                    | ❌                         |
+| worldnews            | ✅                    | ❌                         |
+| aww                  | ✅                    | ❌                         |
+| askscience           | ✅                    | ❌                         |
+| earthporn            | ✅                    | ❌                         |
+| explainlikeimfive    | ✅                    | ❌                         |
+| lifeprotips          | ✅                    | ❌                         |
+| photoshopbattle      | ✅                    | ❌                         |
+| oldschoolcool        | ✅                    | ❌                         |
+| listentothis         | ✅                    | ❌                         |
+| writingprompts       | ✅                    | ❌                         |
+| wallstreetbets       | ✅                    | ❌                         |
+| Fitness              | ✅                    | ❌                         |
+| EatCheapAndHealthy   | ✅                    | ❌                         |
+| tattoos              | ✅                    | ❌                         |
+| nfl                  | ✅                    | ❌                         |
+| mildlyinfuriating    | ✅                    | ❌                         |
+| leagueoflegends      | ✅                    | ❌                         |
+| Awwducational        | ✅                    | ✅                         |
+| news                 | ✅                    | ✅                         |
+| thewitcher3          | ✅                    | ❌                         |
+| watchpeopledieinside | ✅                    | ✅                         |
+| tipofmytongue        | ❌                    | ✅                         |
+| politics             | ✅                    | ✅                         |
+| ContagiousLaughter   | ✅                    | ❌                         |
+| blackmagicfuckery    | ✅                    | ❌                         |
+| TIHI                 | ✅                    | ❌                         |
+| hellsomememes        | ✅                    | ❌                         |
+| OpenUniversity       | ✅                    | ❌                         |
+| animalsbeingbros     | ✅                    | ✅                         |
+| candles              | ✅                    | ✅                         |
+| codes                | ❌                    | ✅                         |
+
 
 ### What is an Anti-Privacy Subreddit?
 
