@@ -48,6 +48,9 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | animalsbeingbros     | ✅                    | ✅                         |
 | candles              | ✅                    | ✅                         |
 | codes                | ❌                    | ✅                         |
+| food                 | ✅                    | ✅                         |
+| HeSquats             | ✅                    | ✅                         |
+| broslikeus           | ✅                    | ✅                         |
 
 
 ### What is an Anti-Privacy Subreddit?
