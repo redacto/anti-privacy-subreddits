@@ -52,6 +52,8 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | HeSquats             | ✅                    | ✅                         |
 | broslikeus           | ✅                    | ✅                         |
 | noContract           | ❌                    | ✅                         |
+| Scams                | ✅                    | ✅                         |
+
 
 ### What is an Anti-Privacy Subreddit?
 
