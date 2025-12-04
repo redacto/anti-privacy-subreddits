@@ -49,7 +49,11 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | candles              | ✅                    | ✅                         |
 | codes                | ❌                    | ✅                         |
 | queens               | ❌                    | ✅                         |
-
+| food                 | ✅                    | ✅                         |
+| HeSquats             | ✅                    | ✅                         |
+| broslikeus           | ✅                    | ✅                         |
+| noContract           | ❌                    | ✅                         |
+| Scams                | ✅                    | ✅                         |
 
 
 ### What is an Anti-Privacy Subreddit?
