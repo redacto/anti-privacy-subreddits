@@ -7,7 +7,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 | Subreddit Name       | Delete Edited Posts? | Ban users who edit posts? |
 |:---------------------|:--------------------:|--------------------------:|
-| explainlifeimfive    | ✅                    | ✅                         |
+| explainlikeimfive    | ✅                    | ✅                         |
 | sex                  | ✅                    | ✅                         |
 | sweden               | ✅                    | ✅                         |
 | marriage             | ✅                    | ✅                         |
