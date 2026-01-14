@@ -7,6 +7,14 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 | Subreddit Name       | Delete Edited Posts? | Ban users who edit posts? |
 |:---------------------|:--------------------:|--------------------------:|
+| ukraine              | ✅                    | ✅                         |
+| yurop                | ✅                    | ✅                         |
+| francedetendue       | ✅                    | ✅                         |
+| europeanculture      | ✅                    | ✅                         |
+| europeanunion        | ✅                    | ✅                         |
+| brexitmemes          | ✅                    | ✅                         |
+| lovetrash            | ✅                    | ✅                         |
+| minimalistphotography| ✅                    | ✅                         |
 | explainlikeimfive    | ✅                    | ✅                         |
 | sex                  | ✅                    | ✅                         |
 | sweden               | ✅                    | ✅                         |
