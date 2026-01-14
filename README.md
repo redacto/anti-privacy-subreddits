@@ -38,7 +38,6 @@ This data is only currently based on the top 100 subreddits and will be expanded
 | aww                  | ✅                    | ❌                         |
 | askscience           | ✅                    | ❌                         |
 | earthporn            | ✅                    | ❌                         |
-| explainlikeimfive    | ✅                    | ❌                         |
 | lifeprotips          | ✅                    | ❌                         |
 | photoshopbattle      | ✅                    | ❌                         |
 | oldschoolcool        | ✅                    | ❌                         |
