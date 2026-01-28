@@ -76,7 +76,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 
 Some subreddits have their automod setup to catch posts that contain certain keywords, pertaining to mass-edit/deletion software.
 Examples are:
-Shreddit, [Redact.dev](https://redact.dev) and github.com/j0be/PowerDeleteSuite
+Shreddit, [Redact.dev](https://redact.dev) and PowerDeleteSuite
 
 Automod will look for terms such as the above names or phrases like "Mass deleted" or "Mass edited" to remove your comments and/or ban you.
 
@@ -84,7 +84,7 @@ Editing your Reddit posts and leaving them in place means that third party "scra
 
 While it may be frustrating to come across deleted or edited comments when searching Reddit for information, the privacy of the individual poster or commenter is more important than the general Reddit experience. 
 
-Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like [Redact.dev](https://redact.dev). One day, platforms like Reddit, Facebook, and Twitter/X may not even allow you to delete your old content.
+Reddit, its moderators and admins should be supportive of you taking steps to secure your privacy and clean up your digital footprint. Privacy is a hard fought right, being stripped away more and more every day. It's up to you to take proactive steps to protect your digital privacy with tools like Redact. One day, platforms like Reddit, Facebook, and Twitter/X may not even allow you to delete your old content.
 
 People who want to protect themselves from AI Harvesting, stylometry attacks, phishing, harassment, stalkers or countless other harms have every right to anonymize their content. Subreddits punishing people for protecting their privacy is unethical and puts the desires of the platform over the rights of the people using it.
 
@@ -92,7 +92,7 @@ People who want to protect themselves from AI Harvesting, stylometry attacks, ph
 
 Letting the subreddits know that what they are doing is anti-privacy and why they stop should be priority number one. Many will be hostile and simply refer to the edits as spam and not want to engage further. Some will change their approach.
 
-For [Redact.dev](https://redact.dev) , when you choose to edit your posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
+For Redact.dev, when you choose to edit your posts, we are now using this github list of subreddits to send randomized edits that have no common identifying strings or tags when a post is in one of the target subreddits. 
 
 This will prevent the automod from automatically deleting the posts. If the subreddit wants to go and delete them still, they will have to do so via manual interaction by a moderator. 
 
